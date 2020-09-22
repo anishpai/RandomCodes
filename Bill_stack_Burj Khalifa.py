@@ -1,6 +1,6 @@
 #Bills
 #One morning, you go out and place a dollar bill on the
-#sidewalk by the Burj Khalifa tower in Chicago. Each day thereafter,
+#sidewalk by the Burj Khalifa tower in Dubai,UAE. Each day thereafter,
 #you go out double the number of bills.
 #How long does it take for the stack of bills to exceed the height of the tower?
 
